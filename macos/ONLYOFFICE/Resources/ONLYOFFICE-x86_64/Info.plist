@@ -476,7 +476,7 @@
 			<key>CFBundleTypeIconFile</key>
 			<string>file-docxf</string>
 			<key>CFBundleTypeName</key>
-			<string>ONLYOFFICE Document Form Template</string>
+			<string>网信办公 Document Form Template</string>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 		</dict>
@@ -488,7 +488,7 @@
 			<key>CFBundleTypeIconFile</key>
 			<string>file-oform</string>
 			<key>CFBundleTypeName</key>
-			<string>ONLYOFFICE Fillable Online Form</string>
+			<string>网信办公 Fillable Online Form</string>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 		</dict>
@@ -638,7 +638,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>$(PRODUCT_NAME)</string>
+	<string>网信办公</string>
+	<key>CFBundleDisplayName</key>
+	<string>网信办公</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -670,17 +672,17 @@
 		<true/>
 	</dict>
 	<key>NSBluetoothAlwaysUsageDescription</key>
-	<string>Once ONLYOFFICE Desktop Editors has permission, document tabs will be able to ask you for access.</string>
+	<string>Once 网信办公 has permission, document tabs will be able to ask you for access.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
-	<string>Once ONLYOFFICE Desktop Editors has permission, document tabs will be able to ask you for access.</string>
+	<string>Once 网信办公 has permission, document tabs will be able to ask you for access.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Once ONLYOFFICE Desktop Editors has permission, document tabs will be able to ask you for access.</string>
+	<string>Once 网信办公 has permission, document tabs will be able to ask you for access.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2026 Ascensio System SIA. All rights reserved.</string>
+	<string>Copyright © 2026 Ascensio System SIA. All rights reserved. 本软件是基于 ONLYOFFICE Desktop Editors（AGPLv3）修改的版本，由网信科技（wx321.com）于 2026-09-24 修改。</string>
 	<key>NSMainStoryboardFile</key>
 	<string>Main</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Once ONLYOFFICE Desktop Editors has permission, document tabs will be able to ask you for access.</string>
+	<string>Once 网信办公 has permission, document tabs will be able to ask you for access.</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>SUFeedURL</key>

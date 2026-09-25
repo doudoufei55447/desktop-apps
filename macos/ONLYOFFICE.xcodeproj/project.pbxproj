@@ -3156,7 +3156,7 @@
 					"$(inherited)",
 					"-headerpad_max_install_names",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = asc.onlyoffice.ONLYOFFICE;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wx321.office;
 				PRODUCT_NAME = ONLYOFFICE;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3202,7 +3202,7 @@
 					"$(inherited)",
 					"-headerpad_max_install_names",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = asc.onlyoffice.ONLYOFFICE;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wx321.office;
 				PRODUCT_NAME = ONLYOFFICE;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3248,7 +3248,7 @@
 					"$(inherited)",
 					"-headerpad_max_install_names",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = asc.onlyoffice.ONLYOFFICE;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wx321.office;
 				PRODUCT_NAME = ONLYOFFICE;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3294,7 +3294,7 @@
 					"$(inherited)",
 					"-headerpad_max_install_names",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = asc.onlyoffice.ONLYOFFICE;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wx321.office;
 				PRODUCT_NAME = ONLYOFFICE;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3420,7 +3420,7 @@
 					"$(inherited)",
 					"-headerpad_max_install_names",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = asc.onlyoffice.ONLYOFFICE;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wx321.office;
 				PRODUCT_NAME = ONLYOFFICE;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3466,7 +3466,7 @@
 					"$(inherited)",
 					"-headerpad_max_install_names",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = asc.onlyoffice.ONLYOFFICE;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wx321.office;
 				PRODUCT_NAME = ONLYOFFICE;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
