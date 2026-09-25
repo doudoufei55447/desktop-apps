@@ -61,16 +61,16 @@
 # define VER_PRODUCTVERSION_STR     VER_STRING_SHORT
 #endif
 
-#define VER_COMPANYNAME_STR         "Ascensio System SIA\0"
+#define VER_COMPANYNAME_STR         "网信科技\0"
 #define VER_LEGALCOPYRIGHT_STR      "© Ascensio System SIA " TO_STR(COPYRIGHT_YEAR) ". All rights reserved.\0"
-#define VER_COMPANYDOMAIN_STR       "www.onlyoffice.com\0"
+#define VER_COMPANYDOMAIN_STR       "www.wx321.com\0"
 #define ABOUT_COPYRIGHT_STR         VER_LEGALCOPYRIGHT_STR
-#define VER_FILEDESCRIPTION_STR     "ONLYOFFICE Desktop Editors\0"
+#define VER_FILEDESCRIPTION_STR     "网信办公\0"
 #define VER_INTERNALNAME_STR        "Desktop Editors\0"
 #define VER_LEGALTRADEMARKS1_STR    "All Rights Reserved\0"
 #define VER_LEGALTRADEMARKS2_STR    VER_LEGALTRADEMARKS1_STR
 #define VER_ORIGINALFILENAME_STR    "documenteditor.exe\0"
-#define VER_PRODUCTNAME_STR         "ONLYOFFICE\0"
+#define VER_PRODUCTNAME_STR         "网信办公\0"
 
 #define VER_LANG_AND_CHARSET        "040904E4"
 #define VER_LANG_ID                 0x0409

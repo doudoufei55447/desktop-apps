@@ -2,12 +2,12 @@
     [System.Version]$Version = "0.0.0.0",
     [string]$Arch = "x64",
     [string]$Target,
-    [string]$CompanyName = "ONLYOFFICE",
+    [string]$CompanyName = "网信办公",
     [string]$ProductName = "DesktopEditors",
     [string]$BuildDir,
     [string]$BrandingDir,
     [switch]$Sign,
-    [string]$CertName = "Ascensio System SIA",
+    [string]$CertName = "网信科技",
     [string]$TimestampServer = "http://timestamp.digicert.com",
     [switch]$Debug
 )

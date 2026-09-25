@@ -2,7 +2,7 @@
     [System.Version]$Version = "0.0.0.0",
     [string]$Arch = "x64",
     [string]$Target,
-    [string]$CompanyName = "ONLYOFFICE",
+    [string]$CompanyName = "网信办公",
     [string]$ProductName = "DesktopEditors",
     [string]$BuildDir
 )
