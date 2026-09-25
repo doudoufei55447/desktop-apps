@@ -47,7 +47,7 @@
     <ROW Property="ProductName" Value="[|AppName]" ValueLocId="-"/>
     <ROW Property="ProductVersion" Value="0.0.0.0" Options="32"/>
     <ROW Property="ProgID" Value="[|ExtPfx].Editors" ValueLocId="-"/>
-    <ROW Property="Protocol" Value="oo-office" ValueLocId="-"/>
+    <ROW Property="Protocol" Value="WX-office" ValueLocId="-"/>
     <ROW Property="REGISTER_CSV" Value="1" Type="4" ValueLocId="-"/>
     <ROW Property="REGISTER_DJVU" Value="1" Type="4" ValueLocId="-"/>
     <ROW Property="REGISTER_DOC" Value="1" Type="4" ValueLocId="-"/>

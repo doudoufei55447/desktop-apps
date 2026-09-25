@@ -11,7 +11,7 @@ PUBLISHER_NAME ?= Ascensio System SIA
 PUBLISHER_URL ?= http://onlyoffice.com
 SUPPORT_URL ?= http://support.onlyoffice.com
 SUPPORT_MAIL ?= support@onlyoffice.com
-SCHEME_HANDLER ?= oo-office
+SCHEME_HANDLER ?= WX-office
 
 PRODUCT_VERSION ?= 0.0.0
 BUILD_NUMBER ?= 0
