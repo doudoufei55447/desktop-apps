@@ -69,7 +69,7 @@
 #define RESET_MESSAGE_MS 20000
 #define CHECK_ON_STARTUP_MS 9000
 #define CMD_ARGUMENT_UPDATES_INTERVAL L"--updates-interval"
-#define SERVICE_NAME APP_TITLE " Update Service"
+#define SERVICE_NAME APP_TITLE " 更新服务"
 #define LINK_TEXT QString("<a href=\"%1\">%2</a>").arg(QString(RELEASE_NOTES), QObject::tr("Release notes"))
 #define __GLOBAL_LOCK if (m_lock) {CLogger::log("Blocked in: " + FUNCTION_INFO); return;} m_lock = true; \
                           CLogger::log("Locking and further execution:" + FUNCTION_INFO);

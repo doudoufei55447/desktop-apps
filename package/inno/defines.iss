@@ -2,7 +2,7 @@
 
 #define sCompanyName                    "网信办公"
 #define sIntCompanyName                 sCompanyName
-#define sProductName                    "Desktop Editors"
+#define sProductName                    "桌面编辑器"
 #define sIntProductName                 "DesktopEditors"
 #define sAppName                        str(sCompanyName)
 #define sPackageName                    str(sIntCompanyName + "-" + sIntProductName)

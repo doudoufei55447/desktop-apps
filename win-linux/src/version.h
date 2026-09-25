@@ -62,12 +62,12 @@
 #endif
 
 #define VER_COMPANYNAME_STR         "网信科技\0"
-#define VER_LEGALCOPYRIGHT_STR      "© Ascensio System SIA " TO_STR(COPYRIGHT_YEAR) ". All rights reserved.\0"
+#define VER_LEGALCOPYRIGHT_STR      "© 网信科技 " TO_STR(COPYRIGHT_YEAR) ". 保留所有权利。\0"
 #define VER_COMPANYDOMAIN_STR       "www.wx12345.com\0"
 #define ABOUT_COPYRIGHT_STR         VER_LEGALCOPYRIGHT_STR
 #define VER_FILEDESCRIPTION_STR     "网信办公\0"
-#define VER_INTERNALNAME_STR        "Desktop Editors\0"
-#define VER_LEGALTRADEMARKS1_STR    "All Rights Reserved\0"
+#define VER_INTERNALNAME_STR        "DesktopEditors\0"
+#define VER_LEGALTRADEMARKS1_STR    "保留所有权利\0"
 #define VER_LEGALTRADEMARKS2_STR    VER_LEGALTRADEMARKS1_STR
 #define VER_ORIGINALFILENAME_STR    "documenteditor.exe\0"
 #define VER_PRODUCTNAME_STR         "网信办公\0"
