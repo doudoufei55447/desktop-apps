@@ -109,7 +109,9 @@
                                 <a class="ver-checkupdate link hidden" draggable='false' data-state='check' href="#" l10n>${_lang.checkUpdates}</a>
                                 <div class="about-field"><a class="ver-changelog link" draggable='false' target="popup" href=${_opts.changelog} l10n>${_lang.aboutChangelog}</a></div>
                                 <a class="ver-site link about-field" target="popup" href="${_opts.link}">${_opts.site}</a>
-                                <div class="ver-copyright about-field">${_opts.rights}</div> 
+                                <div class="ver-copyright about-field">${_opts.rights}</div>
+                                <div class="about-field about-modification">本软件基于 ONLYOFFICE Desktop Editors（GNU AGPLv3）修改而来；原始开发者为 Ascensio System SIA，由网信科技（wx12345.com）于 2026-09-24 起修改。</div>
+                                <div class="about-field"><a class="ver-license link" target="popup" href="https://www.gnu.org/licenses/agpl-3.0.html">AGPLv3 许可证与附加条款（含原始开发者署名）</a></div>
                             </div>                    
                         </div>`+
                         // '<div class="box-license flex-fill">'+

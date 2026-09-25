@@ -6,6 +6,12 @@
   <a href="http://www.gnu.org/licenses/agpl-3.0.html"><img alt="License" src="https://img.shields.io/badge/License-AGPL%20v3.0-green?style=for-the-badge"></a>  
 </p> 
 
+> **修改声明 / Modification Notice**
+>
+> 本仓库（desktop-apps 前端）是基于 [ONLYOFFICE Desktop Editors](https://github.com/ONLYOFFICE/DesktopEditors)（GNU AGPLv3，© Ascensio System SIA）**修改而来**的版本，并非 Ascensio System SIA 的官方发行版。
+> 修改方：**网信科技（[wx12345.com](https://www.wx12345.com)）**；修改起始日期：**2026-09-24**。
+> 原始项目：<https://github.com/ONLYOFFICE/DesktopEditors>。完整许可证（含附加条款）见上层仓库 `LICENSE`。
+
 This repo contains the frontend for [网信办公](https://github.com/ONLYOFFICE/DesktopEditors) which builds the program interface. [网信办公](https://www.wx12345.com/desktop?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDesktopFrontend) is a free and open-source office suite that works offline on your Windows, Linux, and macOS computer. It offers maximum compatibility with Microsoft Office formats (DOCX, XLSX, PPTX) and allows you to connect to the cloud for real-time collaboration.
 
 ## **Why choose 网信办公? ✨**
@@ -31,13 +37,13 @@ Get the latest version for your operating system from our [official website](htt
 
 This repository (`desktop-apps`) contains the frontend shell for the Desktop Editors. The core editing engine and conversion components are located in the main [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) repository.
 
-If you want to compile the application from the source code, please refer to the official [build instructions](https://helpcenter.wx12345.com/desktop/installation/desktop-compile.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDesktopFrontend).
+If you want to compile the application from the source code, please refer to the official [build instructions](https://helpcenter.onlyoffice.com/desktop/installation/desktop-compile.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDesktopFrontend).
 
 ## **Need help or have an idea? Get support here 💡**
 
 We are here to help you with any questions or issues.
 
 * **🐞 Found a bug?** Please report it by creating an issue in the [main repository](https://github.com/ONLYOFFICE/DesktopEditors/issues).  
-* **❓ Have a question?** Ask our community and developers on the [ONLYOFFICE Forum](https://community.wx12345.com/).  
-* **💡 Want to suggest a feature?** Share your ideas on our [feedback platform](https://feedback.wx12345.com/forums/966080-your-voice-matters).
-* **🧑‍💻 Need help for developers?** Check our [API documentation](https://api.wx12345.com/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDesktopFrontend).
+* **❓ Have a question?** Ask our community and developers on the [ONLYOFFICE Forum](https://community.onlyoffice.com/).  
+* **💡 Want to suggest a feature?** Share your ideas on our [feedback platform](https://feedback.onlyoffice.com/forums/966080-your-voice-matters).
+* **🧑‍💻 Need help for developers?** Check our [API documentation](https://api.onlyoffice.com/?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDesktopFrontend).
