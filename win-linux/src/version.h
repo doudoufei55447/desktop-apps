@@ -63,7 +63,7 @@
 
 #define VER_COMPANYNAME_STR         "网信科技\0"
 #define VER_LEGALCOPYRIGHT_STR      "© Ascensio System SIA " TO_STR(COPYRIGHT_YEAR) ". All rights reserved.\0"
-#define VER_COMPANYDOMAIN_STR       "www.wx321.com\0"
+#define VER_COMPANYDOMAIN_STR       "www.wx12345.com\0"
 #define ABOUT_COPYRIGHT_STR         VER_LEGALCOPYRIGHT_STR
 #define VER_FILEDESCRIPTION_STR     "网信办公\0"
 #define VER_INTERNALNAME_STR        "Desktop Editors\0"

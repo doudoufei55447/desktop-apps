@@ -7,8 +7,8 @@
 #define sAppName                        str(sCompanyName)
 #define sPackageName                    str(sIntCompanyName + "-" + sIntProductName)
 #define sAppPublisher                   "网信科技"
-#define sAppPublisherURL                "https://www.wx321.com/"
-#define sAppSupportURL                  "https://www.wx321.com/support.aspx"
+#define sAppPublisherURL                "https://www.wx12345.com/"
+#define sAppSupportURL                  "https://www.wx12345.com/support.aspx"
 #define sAppCopyright                   str("© " + sAppPublisher + " " + GetDateTimeString("yyyy",,) + ". All rights reserved.")
 #define sAppIconName                    "网信办公"
 #define sOldAppIconName                 "网信办公"

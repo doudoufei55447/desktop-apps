@@ -682,7 +682,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Once 网信办公 has permission, document tabs will be able to ask you for access.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2026 Ascensio System SIA. All rights reserved. 本软件是基于 ONLYOFFICE Desktop Editors（AGPLv3）修改的版本，由网信科技（wx321.com）于 2026-09-24 修改。</string>
+	<string>Copyright © 2026 Ascensio System SIA. All rights reserved. 本软件是基于 ONLYOFFICE Desktop Editors（AGPLv3）修改的版本，由网信科技（wx12345.com）于 2026-09-24 修改。</string>
 	<key>NSMainStoryboardFile</key>
 	<string>Main</string>
 	<key>NSMicrophoneUsageDescription</key>
