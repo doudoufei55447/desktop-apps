@@ -74,7 +74,7 @@ static NSString * const uiThemeWhite                      = @"theme-white";
 static NSString * const uiThemeNight                      = @"theme-night";
 
 // Custom schemes
-static NSString * const kSchemeApp                          = @"oo-office";
+static NSString * const kSchemeApp                          = @"WX-office";
 
 // Analitics
 static NSString * const ASCAnalyticsCategoryApplication     = @"Application";

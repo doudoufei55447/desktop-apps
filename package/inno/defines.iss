@@ -12,7 +12,7 @@
 #define sAppCopyright                   str("© " + sAppPublisher + " " + GetDateTimeString("yyyy",,) + ". All rights reserved.")
 #define sAppIconName                    "网信办公"
 #define sOldAppIconName                 "网信办公"
-#define sAppProtocol                    'oo-office'
+#define sAppProtocol                    'WX-office'
 
 #define APP_PATH                        str(sIntCompanyName + "\" + sIntProductName)
 #define UPD_PATH                        str(sIntProductName + "Updates")

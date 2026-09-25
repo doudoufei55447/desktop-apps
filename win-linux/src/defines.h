@@ -62,7 +62,7 @@
 #define APP_DEFAULT_SYSTEM_LOCALE 1
 #define APP_USER_MODEL_ID "ASC.Documents.5"
 #define APP_SIMPLE_WINDOW_TITLE "ONLYOFFICE Editor"
-#define APP_PROTOCOL "oo-office"
+#define APP_PROTOCOL "WX-office"
 #define FILE_PREFIX "onlyoffice_"
 
 #define URL_SITE                "http://www.onlyoffice.com"

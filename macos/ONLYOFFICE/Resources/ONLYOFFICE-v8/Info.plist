@@ -660,7 +660,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>oo-office</string>
+				<string>WX-office</string>
 			</array>
 		</dict>
 	</array>
